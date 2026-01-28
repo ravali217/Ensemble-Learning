@@ -1,0 +1,12 @@
+/* Page background */
+body {
+    background-color: #f9f9f9;
+}
+
+/* Titles */
+h1 {
+    color: #4b0082;
+    text-align: center;
+}
+
+/* Success and error messages are already color-coded by Streamlit */
